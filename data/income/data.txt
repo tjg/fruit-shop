@@ -1,0 +1,4 @@
+["summerville" 120000]
+["winterfield" 15000]
+["autumnharbor" 30000]
+["springtown" 60000]
